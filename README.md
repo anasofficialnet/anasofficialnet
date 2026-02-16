@@ -93,5 +93,5 @@ My priority is building strong technical foundations before advancing to complex
 
 ## Contact
 
-Email: inuismail10@gmail.com  
+Email: anasofficial@gmail.com  
 Portfolio: https://anasofficialnet.github.io/
