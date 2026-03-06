@@ -1,28 +1,32 @@
 # Anas Abdul Aziz
-Pentester  
+**Pentester | Security Tester | SOC & Offensive Security Enthusiast**  
 Focus Area: Web Application Security & Offensive Security  
 Location: India  
+
 ---
+
 ## Professional Summary
-Security practitioner focused on practical penetration testing, vulnerability assessment, and structured offensive methodologies.
+
+Security practitioner focused on practical penetration testing, security testing, vulnerability assessment, and defensive monitoring fundamentals.
+
+My work combines both offensive and defensive security perspectives, allowing me to understand how vulnerabilities are exploited and how they can be detected and mitigated within real-world environments.
+
 My approach is systematic:
+
 - Understand system architecture
 - Map the attack surface
 - Enumerate services and entry points
 - Identify misconfigurations and logic flaws
 - Develop structured exploitation methodology
+- Analyze security events and suspicious activity patterns
 - Document findings clearly and professionally
-Long-term objective: Work as a Security Analyst specializing in web application security and offensive security operations.
+
+Long-term objective: Work as a Security Analyst / Penetration Tester specializing in web application security, offensive security operations, and security monitoring.
+
 ---
-## Featured Security Tools
-### 🛡️ [AASE - Adaptive API Spec Enumerator](https://api-spec-enumerator.vercel.app/)
-*(Creator & Developer)*
-A fast, offline-capable offensive security tool designed to analyze API traffic (HAR, Burp XML, mitmproxy) and automatically discover and fuzz attack surfaces. 
-- **Architecture:** Next.js 15 frontend with an interactive 3D dashboard, powered by a local FastAPI Python engine. 
-- **Capabilities:** Intelligent endpoint normalization, hidden parameter discovery, and automated generation of structured payloads for SQLi, XSS, and SSTI testing.
-- **Source Code:** [anasofficialnet/API-Spec-Enumerator](https://github.com/anasofficialnet/API-Spec-Enumerator)
----
+
 ## Core Competencies
+
 ### Networking
 - TCP/IP fundamentals
 - Subnetting and CIDR
@@ -30,6 +34,7 @@ A fast, offline-capable offensive security tool designed to analyze API traffic 
 - Packet inspection and traffic analysis
 - Service enumeration methodology
 - Basic firewall and routing concepts
+
 ### Web Security
 - Authentication and session testing
 - Input validation flaws
@@ -38,6 +43,14 @@ A fast, offline-capable offensive security tool designed to analyze API traffic 
 - Directory and file enumeration
 - Basic access control testing
 - OWASP Top 10 understanding
+
+### Security Monitoring & SOC Basics
+- Log analysis fundamentals
+- Basic incident detection workflow
+- Understanding attacker behavior patterns
+- Security alert investigation concepts
+- Basic threat detection methodologies
+
 ### Tools
 - Nmap
 - Burp Suite
@@ -46,35 +59,51 @@ A fast, offline-capable offensive security tool designed to analyze API traffic 
 - Hydra
 - Wireshark
 - Kali Linux
-- **AASE (Adaptive API Spec Enumerator)**
+
 ### Technical Foundation
 - Linux command line
 - Bash scripting basics
 - Python (security scripting and automation)
 - Git and GitHub
-- HTML / CSS / JavaScript / React (Next.js) fundamentals
+- HTML / CSS / JavaScript fundamentals
+
 ---
+
 ## Current Development Focus
-- Strengthening manual testing methodology
-- Deepening networking knowledge for security analysis
+
+- Strengthening manual penetration testing methodology
+- Deepening network security knowledge for analysis
 - Practicing structured vulnerability detection in lab environments
-- Developing custom offensive automation tools (Python/React)
+- Developing small security automation tools in Python
+- Learning security monitoring and incident investigation basics
 - Improving reporting and documentation standards
+
 ---
+
 ## Learning Philosophy
-Security is not tool-driven.
+
+Security is not tool-driven.  
 It is methodology-driven.
-Tools evolve.
+
+Tools evolve.  
 Fundamentals remain constant.
-My priority is building strong technical foundations before advancing to complex exploitation.
+
+My priority is building strong technical foundations before advancing to complex exploitation and security operations.
+
 ---
+
 ## 2026 Objectives
+
 - Complete advanced structured web security lab environments
 - Build a custom reconnaissance workflow
-- Develop deeper understanding of authentication and session flaws
-- Improve vulnerability reporting skills
-- Prepare for entry-level penetration testing roles
+- Develop deeper understanding of authentication and session vulnerabilities
+- Improve vulnerability reporting and security documentation
+- Gain experience in SOC analysis and threat monitoring fundamentals
+- Prepare for entry-level penetration testing or SOC analyst roles
+
 ---
+
 ## Contact
+
 Email: anasofficial@gmail.com  
 Portfolio: https://anasofficialnet.github.io/
